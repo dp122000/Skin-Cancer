@@ -72,7 +72,7 @@ Here are the general categories of skin lesions however each category has differ
 
 **Data cleaning, analysis and visualzation**
   
-  Colab link: https://colab.research.google.com/drive/1D4XgIg21pqq3E34RlHiaFIWE-X3T2SSC?usp=sharing#scrollTo=Y6HcscfC6lmd
+  Colab link: https://colab.research.google.com/drive/1WwHW7HD-sSPtzqUt05tqc6q5G2qvI1oX?usp=sharing  
 
 
 **Insights and Recommendations**
